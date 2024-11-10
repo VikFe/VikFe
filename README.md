@@ -6,7 +6,7 @@
 
  I am a frontend developer eager to master the art of creating interactive and responsive web applications. I am passionate about technologies such as HTML, CSS, and JavaScript, and I am actively studying modern libraries and frameworks like React and TypeScript.
   
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/bymasu">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=flat-square"/>
   </a>
