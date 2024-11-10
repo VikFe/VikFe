@@ -24,7 +24,7 @@
     </div>
     
 ---
-### Contacts:
+### 📃 Contacts:
   
 <div id="badges" align="center">
   <a href="https://t.me/bymasu">
