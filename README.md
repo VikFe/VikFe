@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Vika</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
