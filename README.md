@@ -8,7 +8,7 @@
   
 <div id="badges" align="center">
   <a href="https://t.me/bymasu">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=flat-square" width="20"/>
   </a>
  </div>
 - 
