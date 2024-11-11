@@ -27,13 +27,10 @@
 ### 📃 Contacts:
   
 <div id="badges" align="center">
-  <a href="https://t.me/bymasu">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=flat-square" width="100"/>
-  </a>
-  
-   <a href="vikomasu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=Gmail&logoColor=white&style=flat-square" width="75"/>
-  </a>
+
+  [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/bymasu)
+   [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vikomasu@gmail.com)
+
  </div>
 
 ___
